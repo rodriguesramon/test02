@@ -1,3 +1,3 @@
 public class Todo {
-    public int MyProperty { get; set; }
+    public int MyPropertys { get; set; }
 }
